@@ -1,6 +1,6 @@
-# 🔍 ber211 Scanner
+# 🔍 BER211 Scanner
 
-**ber211 Scanner**, keşif (recon), analiz ve güvenli zafiyet tespiti için geliştirilmiş **zararsız (non-destructive)** bir güvenlik test aracıdır.
+**BER211 Scanner**, keşif (recon), analiz ve güvenli zafiyet tespiti için geliştirilmiş **zararsız (non-destructive)** bir güvenlik test aracıdır.
 
 > ⚠️ Bu araç **saldırı yapmaz**, yalnızca güvenli test ve analiz gerçekleştirir.
 > Sadece **izinli sistemlerde** kullanılmalıdır.
