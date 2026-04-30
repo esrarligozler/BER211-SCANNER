@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-1.1.0-blue)](https://github.com/yourusername/ber211-scanner/releases)
 [![Python](https://img.shields.io/badge/python-3.8%2B-green)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/yourusername/ber211-scanner)](LICENSE)
-[![CI](https://github.com/yourusername/ber211-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/ber211-scanner/actions)
+[![CI](https://github.com/esrarligozler/ber211-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/ber211-scanner/actions)
 [![Docker](https://img.shields.io/badge/docker-ready-blue)](https://hub.docker.com/r/yourusername/ber211-scanner)
 
 **BER211 Scanner** – Yetkili güvenlik testleri için geliştirilmiş, tahribatsız (non‑destructive), kapsamlı web uygulama güvenlik tarayıcısı.
