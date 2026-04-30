@@ -110,20 +110,23 @@ ber211_report_<domain>.html – İnsan okunabilir, grafiksel HTML rapor (risk sk
 }
 ```
 🛠️ Gereksinimler
-Python 3.8 veya üzeri
+```Python 3.8 veya üzeri
 
 İnternet bağlantısı (DNS, WHOIS, ASN sorguları için)
 
 Root yetkisi gerekmez – Düşük portlar (<1024) root istese de tarama devam eder; root yoksa sadece o portlar atlanır.
+```
 
 🛡️ Güvenlik Politikası
-Güvenlik açığı bildirimleri için SECURITY.md dosyasını inceleyin. Özel olarak bildirin, herkese açık issue açmayın.
+```Güvenlik açığı bildirimleri için SECURITY.md dosyasını inceleyin. Özel olarak bildirin, herkese açık issue açmayın.```
 
 📄 Lisans
-Bu proje GNU General Public License v3.0 ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakın.
+```Bu proje Apache LICENSE ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakın.```
 
 📞 İletişim
+```
 Geliştirici: ESRAR-I-GOZLER
 
 Discord: discord.gg/keless
+```
 
